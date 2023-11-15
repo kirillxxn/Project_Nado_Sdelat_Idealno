@@ -1,7 +1,7 @@
 # Project_Nado-Sdelat-Idealno
 ## Проект "Надо сделать идеально"
 ### git@github.com:kirillxxn/Project_Nado_Sdelat_Idealno.git
-:white_circle: *** Ссылка на репозиторий проекта :arrow_right: https://github.com/kirillxxn/Project_Nado_Sdelat_Idealno***
+:white_circle: ***Ссылка на репозиторий проекта :arrow_right: https://github.com/kirillxxn/Project_Nado_Sdelat_Idealno***
 
 :white_circle: ***Ссылка на опубликованный проект в GitHub-Pages :arrow_right: https://kirillxxn.github.io/Project_Nado_Sdelat_Idealno/***
 [![](https://imageup.ru/img288/4624358/snimok-ekrana-107.png)](https://imageup.ru/img288/4624358/snimok-ekrana-107.png.html)
